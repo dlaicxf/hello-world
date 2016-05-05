@@ -1,2 +1,5 @@
 # hello-world
-my first project in github
+
+I'd like to make some differences.
+
+never give up seeking the turth.
